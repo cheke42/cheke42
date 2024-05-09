@@ -85,3 +85,11 @@ Soy <strong>Ezequiel</strong>, un apasionado del mundo de la tecnología y el de
         <img src="./src/pisystem.svg" width="77" height="28" style="border: 1px solid #c4c4c4;background: #f6f6f6" title="AVEVA™ PI System™">
     </a>
 </p>
+
+# Mis estadísticas de Github:
+
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cheke42&show_icons=true&locale=en&bg_color=f6f6f6&text_color=000000&layout=compact"
+    alt="Davichobits" 
+    bg_color=#808080/>
+&nbsp;
